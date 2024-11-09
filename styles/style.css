@@ -327,7 +327,7 @@ header{
     visibility: hidden;
 }
 
-.img:hover .tooltip-text{
+.menu-img:hover .tooltip-text{
     visibility: visible;
 }
 
